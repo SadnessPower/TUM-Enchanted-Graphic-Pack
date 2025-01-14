@@ -1,4 +1,4 @@
-GRAPHIC PACK FOR TUM ENCHANTED
+# GRAPHIC PACK FOR TUM ENCHANTED
 
 This mod contain:
 
@@ -7,7 +7,7 @@ This mod contain:
 
 Special Thanks to Aphra!
 
-HOW TO INSTALL
+## HOW TO INSTALL
 
-Put this mod in Heroes/Mods folder and then set via mod manager the priority. It's need to be more higher of other graphic mod.
+Put this mod in Heroes/Mods folder and then set via mod manager the priority. It needs to be more higher of other graphic mod.
 
