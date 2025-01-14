@@ -9,5 +9,5 @@ Special Thanks to Aphra!
 
 ## HOW TO INSTALL
 
-Put this mod in Heroes/Mods folder and then set via mod manager the priority. It needs to be more higher of other graphic mod.
+Download this mod from Mod Browser or put it manually in Heroes/Mods folder and then set via mod manager the priority. It needs to be more higher of other graphic mod.
 
