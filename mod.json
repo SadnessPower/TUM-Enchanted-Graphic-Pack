@@ -1,0 +1,36 @@
+{
+	"caption": {
+		"en_US": "TUM Enchanted Graphic Pack",
+		"ru_RU": "",
+		"ua_UA": ""
+	},
+	"description": {
+		"full": {
+			"en_US": "readme.md",
+			"ru_RU": "",
+			"ua_UA": ""
+		},
+		"short": {
+			"en_US": "",
+			"ru_RU": "",
+			"ua_UA": ""
+		}
+	},
+	"author": "Diozia, SadnessPower",
+	"homepage": "",
+	"icon": {
+		"file": "Graphic Pack.ico",
+		"index": 0
+	},
+	"mod_version": "1.0",
+	"priority": 6,
+	"compatibility": {
+		"class": "default",
+		"entries": {}
+	},
+	"platform": "era",
+	"info_version": "1.0",
+	"plugins": {},
+	"category": "graphics"
+}
+
